@@ -1,4 +1,4 @@
-# 🔥 AndroRAT12 - Advanced Android Remote Administration Tool
+# 🔥 AndroRAT - Advanced Android Remote Administration Tool
 
 ![gm-60632e8f-20be-4b5a-9ca6-a6a9f5d019e6-android-main](https://github.com/user-attachments/assets/0d344351-6ef3-45a6-ae9c-05ab52352e81)
 
@@ -10,8 +10,35 @@
 > ⚠️ **DISCLAIMER**: This tool is for **EDUCATIONAL PURPOSES ONLY**. Use only on devices you own or have explicit permission to test. Unauthorized access is illegal.
 
 ---
-
-## 🌟 Features
+## Installation it item run must be sudo kali/nethunter otherwise is not run this divices 
+```
+apt update && apt upgrade
+```
+```
+apt install git
+```
+```
+apt install python3
+```
+```
+git clone https://github.com/mdarif76769/AndroRAT.git && cd AndroRAT
+```
+```
+python3 -m venv venv
+```
+```
+source venv/bin/activate
+```
+```
+pip install -r requirements.txt
+```
+```
+sudo python3 android_hacker.py
+```
+```
+kali
+```
+## 🌟 
 
 ### 🔥 Core Features
 | Feature | Description |
