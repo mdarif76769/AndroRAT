@@ -35,6 +35,7 @@ pip install -r requirements.txt
 ```
 sudo python3 android_hacker.py
 ```
+# dimand pass
 ```
 kali
 ```
