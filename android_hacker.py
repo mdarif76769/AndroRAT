@@ -73,7 +73,7 @@ class AndroidHackerFramework:
 ║     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝                  ║
 ║                                                                            ║
 ║          Advanced Android Hacking Framework v{self.version}                ║
-║          Author: {self.author}                                             ║
+║          Author: {self.author} by: mdarif76769                             ║
 ║          Type 'help' for commands                                          ║
 ╚════════════════════════════════════════════════════════════════════════════╝
 {Style.RESET_ALL}
